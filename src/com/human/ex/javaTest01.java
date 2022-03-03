@@ -8,7 +8,7 @@ public class javaTest01 {
         	System.out.println("true");
         	System.out.println("yasyayay~");
         }else {
-        	System.out.println("yacorging");
+        	System.out.println("yacovdvrging");
         }
         int a=1;
         switch(a){
